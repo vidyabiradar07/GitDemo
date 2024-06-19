@@ -25,4 +25,9 @@ public class MavenTest3 {
     {
         System.out.println("my 12 test case");
     }
+    @Test()
+    public static void Method5 ()
+    {
+        System.out.println("my 13 test case");
+    }
 }
